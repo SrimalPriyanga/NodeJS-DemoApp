@@ -3,9 +3,8 @@ Project files
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Meteor template
-.meteor/local
-.meteor/meteorite
-socially/.meteor/
+socially/.meteor/local/
+socially/.meteor/meteorite
 
 
 ### Windows template
