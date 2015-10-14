@@ -1,2 +1,2 @@
 # NodeJS-DemoApp
-Work with Javascript stack NodeJS+ Meteor+ AngularJS
+Work with Javascript stack NodeJS + ExpressJS + AngularJS
